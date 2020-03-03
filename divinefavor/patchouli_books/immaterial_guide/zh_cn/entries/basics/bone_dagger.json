@@ -1,0 +1,71 @@
+{
+  "name": "骨短剑",
+  "icon": "divinefavor:bone_dagger",
+  "category": "basics",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "首先要做的是骨短剑。 这不一定是个有用的工具，但对巫师来说却很重要。 激活短剑的特殊能力非常简单，只需用它攻击怪物它迟早会被唤醒并转化成觉醒的短剑。"
+    },
+    {
+      "type": "crafting",
+      "text": "$(item)骨短剑$() 合成表",
+      "recipe": "divinefavor:bone_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:bone_dagger_awakened",
+      "text": "觉醒的骨短剑拥有独特的能力。如果一个人受到攻击，他的血液不会从身体流出，但他的灵魂却是这样。从躯体中驱逐出来的灵魂将立即结晶为灵魂结晶。这一过程所流失的灵魂数量很小，因此对受到攻击的生物不会造成任何实际伤害。"
+    },
+    {
+      "type": "text",
+      "text": "灵魂结晶碎片仍然连接到最初的灵魂上，并且可以用来影响连接的生物。灵魂碎片也有一些超自然的属性，经常被用作神秘配方的一部分。 Soul shards vary depending on the source creature. Currently there are 9 known soul shards."
+    },
+    {
+      "type": "text",
+      "text": "Soul shard types: $(li)Shard of end $(li)Shard of mind $(li)Shard of nether $(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_end",
+      "text": "Soul shard crystallized from soul of otherworldly creatures of end dimension. Can be extracted from endermans, endermites, and shulkers. Also can be extracted from ender dragon inf you seek challenge."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_mind",
+      "text": "Soul shard crystallized from soul of intelligent being. Can be extracted from any type of villager."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_nether",
+      "text": "Soul shard crystallized from soul of hellish creature. Can be extracted from pigmans, magma cubes, blazes and any type hellish creature not related to wither."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_peace",
+      "text": "Soul shard crystallized from soul of peaceful creature. Can be extracted from pigs, cows, chickens and any other type of neutral creature."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_undeath",
+      "text": "Soul shard crystallized from soul of undead creature. Can be extracted from any type of zombies or skeleton."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_water",
+      "text": "Soul shard crystallized from soul of aquatic creature. Can be extracted from squids or guardians."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_wild",
+      "text": "Soul shard crystallized from soul of wild hostile creature. Can be extracted from creepers, spiders and slimes."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:soul_shard_will",
+      "text": "Special soul shard crystallized from soul of player. Can be extracted from any player."
+    }
+  ]
+}

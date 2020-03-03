@@ -1,0 +1,16 @@
+{
+  "name": "Major capacity contract",
+  "icon": "divinefavor:contract_capacity_major",
+  "category": "contracts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight_description",
+      "item": "divinefavor:contract_capacity_major"
+    },
+    {
+      "type": "contract_stats",
+      "contract": "divinefavor:contract_capacity_major"
+    }
+  ]
+}
