@@ -1,0 +1,21 @@
+{
+  "name": "Summon zombie",
+  "icon": "divinefavor:spell_talisman_summon_zombie",
+  "category": "spell_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:spell_talisman_summon_zombie"
+    },
+    {
+      "type": "spell_talisman_stats",
+      "talisman": "divinefavor:spell_talisman_summon_zombie"
+    },
+    {
+      "type": "entity",
+      "entity": "divinefavor:entity.minion_zombie",
+      "text": "Rotten minion."
+    }
+  ]
+}
