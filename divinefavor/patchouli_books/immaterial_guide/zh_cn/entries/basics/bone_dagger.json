@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Soul shard types: $(li)Shard of end $(li)Shard of mind $(li)Shard of nether $(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+      "text": "灵魂碎片类型：$(li)Shard of end $(li)Shard of mind $(li)Shard of nether $(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
     },
     {
       "type": "spotlight",
