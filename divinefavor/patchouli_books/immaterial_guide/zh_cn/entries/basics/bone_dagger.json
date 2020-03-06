@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
     },
     {
       "type": "spotlight",
@@ -45,7 +45,7 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_peace",
-      "text": "Soul shard crystallized from soul of peaceful creature. Can be extracted from pigs, cows, chickens and any other type of neutral creature."
+      "text": "这种灵魂结晶碎片来自和平生物的灵魂。Can be extracted from pigs, cows, chickens and any other type of neutral creature."
     },
     {
       "type": "spotlight",
