@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)Shard of nether $(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
     },
     {
       "type": "spotlight",
@@ -35,12 +35,12 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_mind",
-      "text": "这种灵魂结晶碎片来自智慧生物的灵魂。Can be extracted from any type of villager."
+      "text": "这种灵魂结晶碎片来自智慧生物的灵魂。它可以从所有村民中提取。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_nether",
-      "text": "Soul shard crystallized from soul of hellish creature. Can be extracted from pigmans, magma cubes, blazes and any type hellish creature not related to wither."
+      "text": "这种灵魂结晶碎片来自地狱生物的灵魂。它可以从僵尸猪人、岩浆怪、烈焰人等任何与凋零无关的生物中提取。"
     },
     {
       "type": "spotlight",
