@@ -30,7 +30,7 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_end",
-      "text": "这种灵魂结晶碎片来自末地超自然生物的灵魂。它可以从末影人、末影螨、潜影贝中提取。如果你追求刺激也可以从末影龙提取。"
+      "text": "这种灵魂结晶碎片来自末地超凡生物的灵魂。它可以从末影人、末影螨、潜影贝中提取。如果你追求刺激也可以从末影龙提取。"
     },
     {
       "type": "spotlight",
@@ -45,7 +45,7 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_peace",
-      "text": "这种灵魂结晶碎片来自和平生物的灵魂。Can be extracted from pigs, cows, chickens and any other type of neutral creature."
+      "text": "这种灵魂结晶碎片来自和平生物的灵魂。它可以从猪、牛、鸡等任何种类的自然生物中提取。"
     },
     {
       "type": "spotlight",
