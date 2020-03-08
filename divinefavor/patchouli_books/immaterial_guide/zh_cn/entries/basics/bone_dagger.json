@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)不死碎片$(li)水之碎片$(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
     },
     {
       "type": "spotlight",
@@ -50,12 +50,12 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_undeath",
-      "text": "Soul shard crystallized from soul of undead creature. Can be extracted from any type of zombies or skeleton."
+      "text": "这种灵魂结晶碎片来自不死生物的灵魂。它可以从任何种类的僵尸和骷髅中提取。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_water",
-      "text": "Soul shard crystallized from soul of aquatic creature. Can be extracted from squids or guardians."
+      "text": "这种灵魂碎片来自水生生物的灵魂。它可以从鱿鱼和守卫者中提取。"
     },
     {
       "type": "spotlight",
