@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)不死碎片$(li)水之碎片$(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
+      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)不死碎片$(li)水之碎片$(li)野性碎片$(li)凋零碎片$(li)心智碎片"
     },
     {
       "type": "spotlight",
@@ -60,12 +60,12 @@
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_wild",
-      "text": "Soul shard crystallized from soul of wild hostile creature. Can be extracted from creepers, spiders and slimes."
+      "text": "这种灵魂碎片来自野生敌对生物的灵魂。它可以从苦力怕、蜘蛛和史莱姆中提取。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_will",
-      "text": "Special soul shard crystallized from soul of player. Can be extracted from any player."
+      "text": "这种特殊的灵魂碎片来自玩家的灵魂。它可以从任何玩家身上提取。"
     }
   ]
 }
