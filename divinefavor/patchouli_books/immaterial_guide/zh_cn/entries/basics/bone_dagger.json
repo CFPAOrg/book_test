@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "text": "$(item)骨短剑$() 合成表",
+      "text": "$(item)骨短剑$()合成表",
       "recipe": "divinefavor:bone_dagger"
     },
     {
