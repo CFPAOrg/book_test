@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "这个方块有两种功能：加热周围的水并清除水中的特殊效果。This block does 2 things: it heats up water around it and it dissipates any special blend in water. In practice it means that when it is active it will repeatedly apply effect of a blend to any creature in water around it. To function it requires any kind of burnable fuel and a bathing blend. This block has two slots. In lower you need to load fuel and in top slot you need to load bathing blend."
+      "text": "这个方块有两种功能：加热周围的水并驱散水中任何的blend。事实上这意味着In practice it means that when it is active it will repeatedly apply effect of a blend to any creature in water around it. To function it requires any kind of burnable fuel and a bathing blend. This block has two slots. In lower you need to load fuel and in top slot you need to load bathing blend."
 
     },
     {
@@ -17,23 +17,23 @@
     },
     {
       "type": "crafting",
-      "text": "$(item)Bath heater$() recipe. In order to use it you will need to build a bath. See further pages for examples. Also keep in mind that those are not required builds but just examples.",
+      "text": "$(item)热水器$()合成表。你还需要建造一个浴池来使用它。请参阅后面页面中的示例。但要记住，这些建筑不是必须的，它们只是一些例子。",
       "recipe": "divinefavor:bath_heater"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_first",
-      "text": "Simple example bath"
+      "text": "简易样板浴池"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_second",
-      "text": "Example bath"
+      "text": "样板浴池"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_third",
-      "text": "Fancy example bath"
+      "text": "高级样板浴池"
     }
   ]
 }
