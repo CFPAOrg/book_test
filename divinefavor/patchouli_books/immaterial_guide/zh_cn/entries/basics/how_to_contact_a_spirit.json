@@ -1,5 +1,5 @@
 {
-  "name": "How to contact a spirit",
+  "name": "如何与精灵建立联系",
   "icon": "divinefavor:calling_stone_neblaze",
   "category": "basics",
   "read_by_default": true,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Process of contacting a spirit depend on spirit itself, but general algorithm of contacting a spirit is like this: $(li)Attract spirits attention$(li)Impress spirit$(li)Build altar to a spirit$(li)Trade with him for spells and contracts! $(br)This guide will tach you how to contact a spirit using spirit neblaze as example."
+      "text": "联系精灵的过程依赖于精灵本身，不过通常来说与精灵建立联系的方法如下：$(li)Attract spirits attention$(li)Impress spirit$(li)Build altar to a spirit$(li)Trade with him for spells and contracts! $(br)This guide will tach you how to contact a spirit using spirit neblaze as example."
 
     },
     {
