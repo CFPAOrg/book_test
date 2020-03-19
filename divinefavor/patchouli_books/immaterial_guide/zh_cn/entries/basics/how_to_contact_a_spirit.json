@@ -7,12 +7,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "联系精灵的过程依赖于精灵本身，不过通常来说与精灵建立联系的方法如下：$(li)Attract spirits attention$(li)Impress spirit$(li)Build altar to a spirit$(li)Trade with him for spells and contracts! $(br)This guide will tach you how to contact a spirit using spirit neblaze as example."
-
+      "text": "联系精灵的过程依赖于精灵本身，不过通常来说与精灵建立联系的方法如下：$(li)引起精灵的注意$(li)打动精灵$(li)为精灵筑坛$(li)与精灵交易法术和契约！$(br)This guide will tach you how to contact a spirit using spirit neblaze as example."
     },
     {
       "type": "text",
-      "text": "Attracting spirits attention. $(br) In order to attract spirits attention you will need to prepare a special bathing blend. Blends are a mix of soul shards with some regular ingredients. Similarly to potions they apply special status effects, but unlike potions you cannot consume them directly you need special block called bath heater to use them. "
+      "text": "吸引精灵的注意$(br)为了吸引精灵的注意力，你需要准备一种特殊的香氛精华。芳香精华是将一些特殊物品与灵魂碎片混合而成的。他们可以像药水一样给你带来特殊的效果，但不能像药水一样直接饮用，而是通过一个叫做热水器的方块来使用。"
     },
     {
       "type": "crafting",
