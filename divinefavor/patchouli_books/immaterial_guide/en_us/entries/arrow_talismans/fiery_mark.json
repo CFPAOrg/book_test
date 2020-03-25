@@ -1,0 +1,16 @@
+{
+  "name": "Fiery mark",
+  "icon": "divinefavor:arrow_talisman_fiery_mark",
+  "category": "arrow_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:arrow_talisman_fiery_mark"
+    },
+    {
+      "type": "arrow_talisman_stats",
+      "talisman": "divinefavor:arrow_talisman_fiery_mark"
+    }
+  ]
+}

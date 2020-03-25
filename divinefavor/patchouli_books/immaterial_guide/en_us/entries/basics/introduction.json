@@ -1,0 +1,28 @@
+{
+  "name": "Introduction",
+  "icon": "divinefavor:bone_key",
+  "category": "basics",
+  "read_by_default": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Welcome seekers of unnatural power. Let me introduce you to art of Spiritual Contract!$(br)Spiritual contract is a form of magic which depends on immaterial beings called spirits. $(br)Practitioners of this form of magic do not cast spells themselves, instead relying on spirits to make miracles for them."
+
+    },
+    {
+      "type": "text",
+      "text": "It is not really known what spirits are, but it is clear that whatever they are they are, they are very powerful beings. Spirits are able to produce numerous inexplicable phenomenon like conjuring fire out of nowhere, transforming materials, teleporting and much more.$(br)Each spirit seems to specializes on some element or theme. There are various activity times associated with spirits, this time is when the respective spirits become much more active."
+
+    },
+    {
+      "type": "text",
+      "text": "Spirits actively watch over the world during their activity time, so if you want to contact a spirit you need to know when exactly the spirit is active. In order to harness the power of spirits you will also need to understand what is spirits favor. You can think of it as a currency. Each spirit has its own favor, and remembers how much favor you have. If you want to use any spell you acquired from spirit, you will have to spend favor to use it. "
+
+    },
+    {
+      "type": "text",
+      "text": "The cost of spells varies greatly. Each spell belongs to one spirit, consuming the spirit's favor on use. Favor can be replenished by trading goods with spirits or by acquiring special contracts. Each spirit has a unique set of powers which may benefit the user."
+    }
+  ]
+}

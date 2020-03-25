@@ -1,0 +1,16 @@
+{
+  "name": "Ethereal light",
+  "icon": "divinefavor:spell_talisman_ethereal_light",
+  "category": "spell_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:spell_talisman_ethereal_light"
+    },
+    {
+      "type": "spell_talisman_stats",
+      "talisman": "divinefavor:spell_talisman_ethereal_light"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Wall slip",
+  "icon": "divinefavor:spell_talisman_wall_slip",
+  "category": "spell_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:spell_talisman_wall_slip"
+    },
+    {
+      "type": "spell_talisman_stats",
+      "talisman": "divinefavor:spell_talisman_wall_slip"
+    }
+  ]
+}

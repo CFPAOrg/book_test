@@ -1,0 +1,16 @@
+{
+  "name": "Minor capacity contract",
+  "icon": "divinefavor:contract_capacity_minor",
+  "category": "contracts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight_description",
+      "item": "divinefavor:contract_capacity_minor"
+    },
+    {
+      "type": "contract_stats",
+      "contract": "divinefavor:contract_capacity_minor"
+    }
+  ]
+}
