@@ -1,5 +1,5 @@
 {
-  "name": "如何与精灵建立联系",
+  "name": "如何与精灵接触",
   "icon": "divinefavor:calling_stone_neblaze",
   "category": "basics",
   "read_by_default": true,
@@ -7,25 +7,25 @@
   "pages": [
     {
       "type": "text",
-      "text": "联系精灵的过程依赖于精灵本身，不过通常来说与精灵建立联系的方法如下：$(li)引起精灵的注意$(li)打动精灵$(li)为精灵筑坛$(li)与精灵交易法术和契约！$(br)This guide will tach you how to contact a spirit using spirit neblaze as example."
+      "text": "接触精灵的过程依赖于精灵本身，不过通常来说与精灵进行接触的方法如下：$(li)引起精灵的注意$(li)打动精灵$(li)为精灵筑坛$(li)与精灵交易法术和契约！$(br)这份指南将会以精灵Neblaze为例教你如何与精灵接触。"
     },
     {
       "type": "text",
-      "text": "吸引精灵的注意$(br)为了吸引精灵的注意力，你需要准备一种特殊的香氛精华。芳香精华是将一些特殊物品与灵魂碎片混合而成的。他们可以像药水一样给你带来特殊的效果，但不能像药水一样直接饮用，而是通过一个叫做热水器的方块来使用。"
+      "text": "吸引精灵的注意$(br)为了吸引精灵的注意力，你需要准备一种特殊的香氛精华。香氛精华是将一些特殊物品与灵魂碎片混合而成的。他们可以像药水一样给你带来特殊的效果，但不能像药水一样直接饮用，而是通过一个叫做热水器的方块来使用。"
     },
     {
       "type": "crafting",
-      "text": "Blends cannot be consumed directly because they are often made of inedible and other pretty questionable ingredients. Above you see recipe for a $(item)Nether charcoal blend$(). This blend is used to attract attention of spirit neblaze.",
+      "text": "香氛精华不能直接饮用，因为它们通常含有不可食用或其他可疑的物质。上面是$(item)下界煤炭香氛精华$()的合成表。这种香氛精华能吸引精灵Neblaze的注意。",
       "recipe": "divinefavor:blend_charcoal"
     },
     {
       "type": "crafting",
-      "text": "$(item)Bath heater$() recipe. $(br)In order to use it you will have to make yourself a bath. In addition to bath heater you will also need to make a bath. Bath is a simple 1 block deep water blocks enclosed by some other blocks.",
+      "text": "$(item)热水器$()合成表。$(br)要使用它，你必须为自己建造一个浴池。除热水器外，你还需要洗澡。洗澡只需要有一个挨着任意方块的一格深的水。",
       "recipe": "divinefavor:bath_heater"
     },
     {
       "type": "crafting",
-      "text": "Another item that you will need is a glass symbol of spirit. When used it will tell you if spirit is active and when it will become active if he is currently not. Also this item will be needed at the end of contact ritual.",
+      "text": "你所需要的另一个物品是精灵的玻璃象征。Another item that you will need is a glass symbol of spirit. When used it will tell you if spirit is active and when it will become active if he is currently not. Also this item will be needed at the end of contact ritual.",
       "recipe": "divinefavor:marked_glass_neblaze"
     },
     {
@@ -43,7 +43,7 @@
     {
       "type": "spotlight",
       "item": "divinefavor:calling_stone_neblaze",
-      "text": "When you managed to attract a spirit it is time to impress him. In case of neblaze you will need to prove that you are not afraid of fire, by stepping into fire. If spirit is impressed by your actions he will give you an invite. Spirits invite is an item that needed to finish spirit altar."
+      "text": "When you managed to attract a spirit it is time to impress him. In case of 0 you will need to prove that you are not afraid of fire, by stepping into fire. If spirit is impressed by your actions he will give you an invite. Spirits invite is an item that needed to finish spirit altar."
     },
     {
       "type": "spotlight",
