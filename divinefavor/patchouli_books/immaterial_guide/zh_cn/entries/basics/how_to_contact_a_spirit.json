@@ -8,6 +8,7 @@
     {
       "type": "text",
       "text": "接触精灵的过程依赖于精灵本身，不过通常来说与精灵进行接触的方法如下：$(li)引起精灵的注意$(li)打动精灵$(li)为精灵筑坛$(li)与精灵交易法术和契约！$(br)这份指南将会以精灵Neblaze为例教你如何与精灵接触。"
+
     },
     {
       "type": "text",
@@ -25,7 +26,7 @@
     },
     {
       "type": "crafting",
-      "text": "你所需要的另一个物品是精灵的玻璃象征。Another item that you will need is a glass symbol of spirit. When used it will tell you if spirit is active and when it will become active if he is currently not. Also this item will be needed at the end of contact ritual.",
+      "text": "另一件你需要的物品是精灵的玻璃标记。用的时候，它会告诉你精灵是否活跃，如果他现在不活跃，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段Also this item will be needed at the end of contact ritual.",
       "recipe": "divinefavor:marked_glass_neblaze"
     },
     {
