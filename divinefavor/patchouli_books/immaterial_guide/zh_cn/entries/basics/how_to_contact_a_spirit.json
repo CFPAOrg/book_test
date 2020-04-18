@@ -26,12 +26,12 @@
     },
     {
       "type": "crafting",
-      "text": "另一件你需要的物品是精灵的玻璃标记。用的时候，它会告诉你精灵是否活跃，如果他现在不活跃，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
+      "text": "另一件你需要的物品是精灵的玻璃标志。使用时它会告诉你精灵是否活跃，如果不活跃，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
       "recipe": "divinefavor:marked_glass_neblaze"
     },
     {
       "type": "text",
-      "text": "After you built a bath with bath heater and crafted plenty of nether charcoal blend you will need to know when spirit becomes active. It is useless to try to contact a spirit when he is inactive. You can find out when spirit is active in section of this book called 'Spirits' or by using glass symbol of spirit. When time is right load fuel and blend into bath heater. When water starts bubbling get inside the bath."
+      "text": "建造一个带有热水器的浴池并合成大量下界木炭香氛精华之后，你还需要知道精灵什么时候会活跃。 It is useless to try to contact a spirit when he is inactive. You can find out when spirit is active in section of this book called 'Spirits' or by using glass symbol of spirit. When time is right load fuel and blend into bath heater. When water starts bubbling get inside the bath."
     },
     {
       "type": "text",
