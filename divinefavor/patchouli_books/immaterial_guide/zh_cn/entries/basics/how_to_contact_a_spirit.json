@@ -16,7 +16,7 @@
     },
     {
       "type": "crafting",
-      "text": "香氛精华不能直接饮用，因为它们通常含有不可食用或其他可疑的物质。上面是$(item)下界煤炭香氛精华$()的合成表。这种香氛精华能吸引精灵Neblaze的注意。",
+      "text": "香氛精华不能直接饮用，因为它们通常含有不可食用或其他可疑的物质。上面是$(item)下界煤炭香氛精华$()的合成表。这种香氛精华能吸引精灵 Neblaze 的注意。",
       "recipe": "divinefavor:blend_charcoal"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "type": "crafting",
-      "text": "另一件你需要的物品是精灵的玻璃标志。使用时它会告诉你精灵是否活跃，如果他在沉睡，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
+      "text": "另一件你需要的物品是精灵的玻璃灵媒。使用时它会告诉你精灵是否活跃，如果他在沉睡，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
       "recipe": "divinefavor:marked_glass_neblaze"
     },
     {
       "type": "text",
-      "text": "建造一个带有热水器的浴池并合成大量下界木炭香氛精华之后，你还需要知道精灵什么时候会活跃。 It is useless to try to contact a spirit when he is inactive. You can find out when spirit is active in section of this book called 'Spirits' or by using glass symbol of spirit. When time is right load fuel and blend into bath heater. When water starts bubbling get inside the bath."
+      "text": "建造一个带有热水器的浴池并合成大量下界木炭香氛精华之后，你还需要知道精灵什么时候会活跃。精灵沉睡时尝试与其接触是做无用功。 You can find out when spirit is active in section of this book called 'Spirits' or by using glass symbol of spirit. When time is right load fuel and blend into bath heater. When water starts bubbling get inside the bath."
     },
     {
       "type": "text",
