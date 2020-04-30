@@ -21,7 +21,7 @@
     },
     {
       "type": "crafting",
-      "text": "$(item)热水器$()合成表。$(br)要使用它，你必须为自己建造一个浴池。除热水器外，你还需要洗澡。洗澡只需要有一个挨着任意热水器的一格深的水。",
+      "text": "$(item)热水器$()合成表。$(br)要使用它，你必须为自己建造一个浴池。除热水器外，你还需要洗澡。洗澡只需要有一个挨着任意热水器的一格水。",
       "recipe": "divinefavor:bath_heater"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "不久之后就会有一种类似于药水的效果。与那些饮用即有最大时间的药水不同，香氛精华的持续时间取决于你坐在浴池的时间。你可以一直坐着直到你认为效果能持续Sit in bath until you think effect has enough active time. Effects of blends that intended to make you more noticeable by spirits are called auras. Nether coal blend gives you charred aura. When spirit is active and you have appropriate aura you will need to do something to attract spirit."
+      "text": "不久之后就会有一种类似于药水的效果。与那些饮用即有最大时间的药水不同，香氛精华的持续时间取决于你坐在浴池的时间。你可以一直坐着直到你认为效果能持续足够长的时间。香氛精华的效果会在你周围形成一种使精灵能更关注你的气味。下界木炭香氛精华会形成一种烧焦的气味。When spirit is active and you have appropriate aura you will need to do something to attract spirit."
     },
     {
       "type": "text",
