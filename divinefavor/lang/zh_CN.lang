@@ -552,25 +552,25 @@ key.divinefavor.talisman_value_hud=Talisman property hud
 
 #BLOCK DESCRIPTIONS FOR JEI AND PATCHOULI
 ## MEDIUMS
-tile.divinefavor:medium_gold.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:medium_iron.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:medium_lapis.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:medium_log.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:medium_obsidian.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:medium_redstone.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (Immaterial guide).
+tile.divinefavor:medium_gold.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
+tile.divinefavor:medium_iron.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
+tile.divinefavor:medium_lapis.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
+tile.divinefavor:medium_log.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
+tile.divinefavor:medium_obsidian.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
+tile.divinefavor:medium_redstone.description=Spiritual medium. Integral part of spiritual altar. Build an altar dedicated to a spirit of your choice to be able to trade with him. Different altars require different types of mediums. Read guidebook for more details (灵魂指南).
 
 ## LECTERNS
-tile.divinefavor:soulbound_lectern_coal.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_gold.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_iron.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_log.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_obsidian.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_snow.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_stone.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
-tile.divinefavor:soulbound_lectern_wood.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (Immaterial guide).
+tile.divinefavor:soulbound_lectern_coal.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_gold.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_iron.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_log.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_obsidian.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_snow.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_stone.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
+tile.divinefavor:soulbound_lectern_wood.description=Special lectern that allows you to store and access your spiritual contracts. Requires special multiblock to work. Functions similar to ender chest. Read guidebook for more details (灵魂指南).
 
 ## OTHER
-tile.divinefavor:bath_heater.description=This block allows you to use special blends. Such blends grant special effects similar to potions. Read guidebook for more details (Immaterial guide).
+tile.divinefavor:bath_heater.description=This block allows you to use special blends. Such blends grant special effects similar to potions. Read guidebook for more details (灵魂指南).
 tile.divinefavor:ender_pumpkin.description=Enderman mask crafted from pumpkin. Greatly hinders your vision, but still has some practical uses.
 tile.divinefavor:ethereal_goo.description=This block can mimic visual appearance of other blocks. To make it mimic something you can either use ehtereal brush, or construction talismans.
 tile.divinefavor:red_pulse.description=Ghostly block that emits redstone signal and disappears very shortly
@@ -603,7 +603,7 @@ item.divinefavor:stable_warp_pebble.description=Instantly teleports you to place
 
 ## TOOLS
 item.divinefavor:banishing_wand.description=Right click minion with this item to banish him.
-item.divinefavor:bone_dagger.description=Not a weapon. Well, not very good weapon. Bone dagger is an unfinished spiritual tool that can be transformed into awakened bone dagger. Read guidebook for more details (Immaterial guide).
+item.divinefavor:bone_dagger.description=Not a weapon. Well, not very good weapon. Bone dagger is an unfinished spiritual tool that can be transformed into awakened bone dagger. Read guidebook for more details (灵魂指南).
 item.divinefavor:bone_dagger_awakened.description=Spiritual tool whose main purpose is to extract soul shards from things with souls.
 item.divinefavor:bone_key.description=Tool used for reactivation of damaged multiblocks.
 item.divinefavor:ethereal_brush.description=This brush can be used for painting blocks with goo. To select block type you need to sneak right click any block. Brush has two modes: painting and placing. When in painting mode ritght click goo block to change its shape to selected block type. When in placing mode brush will take goo from your inventory, place it into the world and then change its shape to selected block type. Sneak righ click air to change mode.
