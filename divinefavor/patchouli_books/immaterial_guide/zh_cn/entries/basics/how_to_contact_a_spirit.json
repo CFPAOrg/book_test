@@ -27,7 +27,7 @@
     {
       "type": "crafting",
       "text": "另一件你需要的物品是精灵的玻璃灵媒。使用时它会告诉你精灵是否活跃，如果他在沉睡，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
-      "recipe": "divinefavor:marked_glass_neblaze"
+      "recipe": "divinefa vor:marked_glass_neblaze"
     },
     {
       "type": "text",
@@ -39,7 +39,7 @@
     },
     {
       "type": "text",
-      "text": "Neblaze is a spirit of fire so in order to attract him you will have to make some fire. Just grab flint and steel and ignite some stuff. Sooner or later spirit will notice you. Whe he does aura effect will be replaced with effect called presence. If you have such effect it means that some spirit is actively watching you. In case of neblase when he watches you he will give you effect 'scorching presence'."
+      "text": "Neblaze 是火焰精灵所以你需要点火来吸引它。只需要拿起打火石点燃一些东西，精灵早晚会注意到你的。Whe he does aura effect will be c with effect called presence. If you have such effect it means that some spirit is actively watching you. In case of neblase when he watches you he will give you effect 'scorching presence'."
     },
     {
       "type": "spotlight",
