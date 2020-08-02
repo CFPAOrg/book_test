@@ -39,26 +39,26 @@
     },
     {
       "type": "text",
-      "text": "Neblaze 是火焰精灵所以你需要点火来吸引它。只需要拿起打火石点燃些什么，精灵早晚会注意到你。When and where he does aura effect will be see with effect called presence.如果你有这种效果就意味着某些精灵正在关注你。比如 Neblase In case of neblase when he watches you he will give you effect 'scorching presence'."
+      "text": "Neblaze 是火焰精灵，所以你需要点火来吸引它。只需要拿起打火石点燃些什么，精灵早晚会注意到你。When and where he does aura effect will be see with effect called presence.如果你有这种效果就意味着某些精灵正在关注你。比如 Neblase In case of neblase when he watches you he will give you effect 'scorching presence'."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:calling_stone_neblaze",
-      "text": "When you managed to attract a spirit it is time to impress him. In case of 0 you will need to prove that you are not afraid of fire, by stepping into fire. If spirit is impressed by your actions he will give you an invite. Spirits invite is an item that needed to finish spirit altar."
+      "text": "当你成功地吸引了一个精灵，就是时候给他留下深刻印象了。在第一阶段，你需要站在火焰中来证明你并不惧怕火焰。如果精灵被你的行为所打动，他会给你一个信物。精灵的信物是完成仪式必备的物品。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:marked_glass_neblaze",
-      "text": "Important! To receive invite from spirit you will need glass symbol of that spirit in your inventory. When you impress spirit and finish ritual all glass symbols of this spirit in your inventory will be replaced with invites of this spirit."
+      "text": "注意！你需要在背包中放置精灵的玻璃灵媒才能获得他的信物。当你给他留下深刻印象并完成仪式后，背包中所有的玻璃灵媒都会转化成这个精灵的信物。"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.altar_neblaze",
-      "text": "Altar of neblaze. Put invite in medium to finish altar."
+      "text": "精灵 neblaze 的祭坛。把信物放在媒介中以完成祭坛。"
     },
     {
       "type": "text",
-      "text": "Spirit altars are used to trade with spirits for spells and other items. On other page you will see and instruction how to build neblaze altar. After altar is built place invite into central slot of medium. If altar assembled correctly then texture of medium will change. If it does then you are ready to trade with neblaze."
+      "text": "精灵的祭坛被用来与精灵交易法术或其他物品。你可以在另一页看到如何建造 neblaze 的祭坛。祭坛建造完成后将信物放进媒介中间的格子。如果成功，媒介的材质将会发生变化。这时你就可以与 neblaze 交易。"
     }
   ]
 }
