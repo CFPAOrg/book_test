@@ -1,0 +1,16 @@
+{
+  "name": "Anti gravity arrow",
+  "icon": "divinefavor:arrow_talisman_anti_gravity",
+  "category": "arrow_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:arrow_talisman_anti_gravity"
+    },
+    {
+      "type": "arrow_talisman_stats",
+      "talisman": "divinefavor:arrow_talisman_anti_gravity"
+    }
+  ]
+}

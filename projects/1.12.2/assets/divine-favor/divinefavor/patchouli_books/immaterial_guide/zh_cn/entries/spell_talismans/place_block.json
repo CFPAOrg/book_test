@@ -1,0 +1,16 @@
+{
+  "name": "Place block",
+  "icon": "divinefavor:spell_talisman_place_block",
+  "category": "spell_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:spell_talisman_place_block"
+    },
+    {
+      "type": "spell_talisman_stats",
+      "talisman": "divinefavor:spell_talisman_place_block"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "如何与精灵接触",
+  "icon": "divinefavor:calling_stone_neblaze",
+  "category": "basics",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "接触精灵的过程依靠精灵，不过通常来说与精灵进行接触的方法如下：$(li)引起精灵的注意$(li)打动精灵$(li)为精灵筑坛$(li)与精灵交易法术和契约！$(br)这份指南将会以精灵 Neblaze 为例教你如何与精灵接触。"
+
+    },
+    {
+      "type": "text",
+      "text": "吸引精灵的注意$(br)为了吸引精灵的注意力，你需要准备一种特殊的香氛精华。香氛精华是将一些特殊物品与灵魂碎片混合而成的。他们可以像药水一样给你带来特殊的效果，但不能像药水一样直接饮用，而是通过一个叫做热水器的方块来使用。"
+    },
+    {
+      "type": "crafting",
+      "text": "香氛精华不能直接饮用，因为它们通常含有不可食用或其他可疑的物质。上面是$(item)下界煤炭香氛精华$()的合成表。这种香氛精华能吸引精灵 Neblaze 的注意。",
+      "recipe": "divinefavor:blend_charcoal"
+    },
+    {
+      "type": "crafting",
+      "text": "$(item)热水器$()合成表。$(br)要使用它，你必须为自己建造一个浴池。除热水器外，你还需要洗澡。洗澡只需要有一个挨着任意热水器的一格水。",
+      "recipe": "divinefavor:bath_heater"
+    },
+    {
+      "type": "crafting",
+      "text": "另一件你需要的物品是玻璃灵媒。使用时它会告诉你精灵是否活跃，如果他在沉睡，它就会告知你精灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
+      "recipe": "divinefa vor:marked_glass_neblaze"
+    },
+    {
+      "type": "text",
+      "text": "建造一个带有热水器的浴池并合成大量下界木炭香氛精华之后，你还需要知道精灵什么时候会活跃。精灵沉睡时尝试与其接触是做无用功。你可以在本书的章节“精灵”或者使用精灵的玻璃灵媒找到精灵什么时候活跃。在正确的时间向热水器加入燃料和香氛精华，等水开始冒泡你就可以进去洗澡了。"
+    },
+    {
+      "type": "text",
+      "text": "不久之后就会有一种类似于药水的效果。与那些饮用即有最大时间的药水不同，香氛精华的持续时间取决于你坐在浴池的时间。你可以一直坐着直到你认为效果能持续足够长的时间。香氛精华的效果会在你周围形成一种使精灵能更关注你的气味。下界木炭香氛精华有一种烧焦的气味。精灵活跃且你有适当气味的时候，你就要做点什么来吸引它的注意了。"
+    },
+    {
+      "type": "text",
+      "text": "Neblaze 是火焰精灵，所以你需要点火来吸引它。只需要拿起打火石点燃些什么，精灵早晚会注意到你。When and where he does aura effect will be see with effect called presence.如果你有这种效果就意味着某些精灵正在关注你。比如 Neblase In case of neblase when he watches you he will give you effect 'scorching presence'."
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:calling_stone_neblaze",
+      "text": "当你成功地吸引了一个精灵，就是时候给他留下深刻印象了。在第一阶段，你需要站在火焰中来证明你并不惧怕火焰。如果精灵被你的行为所打动，他会给你一个信物。精灵的信物是完成仪式必备的物品。"
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:marked_glass_neblaze",
+      "text": "注意！你需要在背包中放置精灵的玻璃灵媒才能获得他的信物。当你给他留下深刻印象并完成仪式后，背包中所有的玻璃灵媒都会转化成这个精灵的信物。"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "divinefavor:patchouli.altar_neblaze",
+      "text": "精灵 neblaze 的祭坛。把信物放在媒介中以完成祭坛。"
+    },
+    {
+      "type": "text",
+      "text": "精灵的祭坛被用来与精灵交易法术或其他物品。你可以在另一页看到如何建造 neblaze 的祭坛。祭坛建造完成后将信物放进媒介中间的格子。如果成功，媒介的材质将会发生变化。这时你就可以与 neblaze 交易。"
+    }
+  ]
+}

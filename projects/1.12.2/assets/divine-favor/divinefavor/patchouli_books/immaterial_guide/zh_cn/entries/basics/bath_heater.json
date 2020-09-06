@@ -1,0 +1,38 @@
+{
+  "name": "热水器",
+  "icon": "divinefavor:bath_heater",
+  "category": "basics",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个方块有两种功能：加热周围的水并扩散水中的香氛精华。也就是说当它启动时它会不断地向周围水中的生物施加香氛精华的效果。任何燃料和香氛精华都可以启动它。这个方块有两个格子。你需要将燃料放在下面的格子中，并将香氛精华放入上面的格子。"
+    },
+    {
+      "type": "spotlight",
+      "item": "divinefavor:blend_ender_pearl",
+      "text": "香氛精华是一种与药水有类似效果的物品，但不像药水，你不需要饮用，只要外用就行了。一切与精灵接触的方式都需要适当的香氛精华。"
+    },
+    {
+      "type": "crafting",
+      "text": "$(item)热水器$()合成表。你还需要建造一个浴池来使用它。请参阅后面页面中的示例。但要记住，不一定要按照样例建造，它们只是一些例子。",
+      "recipe": "divinefavor:bath_heater"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "divinefavor:patchouli.bath_example_first",
+      "text": "简易样板浴池"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "divinefavor:patchouli.bath_example_second",
+      "text": "样板浴池"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "divinefavor:patchouli.bath_example_third",
+      "text": "豪华样板浴池"
+    }
+  ]
+}

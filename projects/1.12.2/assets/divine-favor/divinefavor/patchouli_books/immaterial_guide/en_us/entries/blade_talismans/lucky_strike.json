@@ -1,0 +1,16 @@
+{
+  "name": "Lucky strike",
+  "icon": "divinefavor:blade_talisman_lucky_strike",
+  "category": "blade_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:blade_talisman_lucky_strike"
+    },
+    {
+      "type": "blade_talisman_stats",
+      "talisman": "divinefavor:blade_talisman_lucky_strike"
+    }
+  ]
+}

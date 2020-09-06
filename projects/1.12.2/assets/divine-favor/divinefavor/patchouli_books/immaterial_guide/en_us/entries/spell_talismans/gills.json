@@ -1,0 +1,16 @@
+{
+  "name": "Gills",
+  "icon": "divinefavor:spell_talisman_gills",
+  "category": "spell_talismans",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "item_description",
+      "talisman": "divinefavor:spell_talisman_gills"
+    },
+    {
+      "type": "spell_talisman_stats",
+      "talisman": "divinefavor:spell_talisman_gills"
+    }
+  ]
+}
