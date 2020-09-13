@@ -7,32 +7,32 @@
   "pages": [
     {
       "type": "text",
-      "text": "这个方块有两种功能：加热周围的水并扩散水中的香氛精华。也就是说当它启动时它会不断地向周围水中的生物施加香氛精华的效果。任何燃料和香氛精华都可以启动它。这个方块有两个格子。你需要将燃料放在下面的格子中，并将香氛精华放入上面的格子。"
+      "text": "This block does 2 things: it heats up water around it and it dissipates any special blend in water. In practice it means that when it is active it will repeatedly apply effect of a blend to any creature in water around it. To function it requires any kind of burnable fuel and a bathing blend. This block has two slots. In lower you need to load fuel and in top slot you need to load bathing blend."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:blend_ender_pearl",
-      "text": "香氛精华是一种与药水有类似效果的物品，但不像药水，你不需要饮用，只要外用就行了。一切与精灵接触的方式都需要适当的香氛精华。"
+      "text": "Blends are items that similar in effect with potions but unlike potions you are not suppose to ingest them, but instead apply externally. All methods of contacting a spirit require appropriate blend"
     },
     {
       "type": "crafting",
-      "text": "$(item)热水器$()合成表。你还需要建造一个浴池来使用它。请参阅后面页面中的示例。但要记住，不一定要按照样例建造，它们只是一些例子。",
+      "text": "$(item)Bath heater$() recipe. In order to use it you will need to build a bath. See further pages for examples. Also keep in mind that those are not required builds but just examples.",
       "recipe": "divinefavor:bath_heater"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_first",
-      "text": "简易样板浴池"
+      "text": "Simple example bath"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_second",
-      "text": "样板浴池"
+      "text": "Example bath"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.bath_example_third",
-      "text": "豪华样板浴池"
+      "text": "Fancy example bath"
     }
   ]
 }

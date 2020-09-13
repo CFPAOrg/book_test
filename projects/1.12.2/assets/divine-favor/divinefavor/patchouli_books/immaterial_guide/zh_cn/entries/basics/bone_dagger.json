@@ -7,65 +7,65 @@
   "pages": [
     {
       "type": "text",
-      "text": "首先要制作的是骨短剑。 这不一定是个有用的工具，但对巫师来说却很重要。 激活短剑的特殊能力非常简单，只需用它攻击怪物，它就会被逐渐唤醒并转化成觉醒的短剑。"
+      "text": "Very first tool thar you should create is bone dagger. While not very useful as a weapon it is an essential tool for spiritualist. Activation of special ability of this dagger is pretty straightforward, just attack some mobs with it and sooner or later it will awaken and transform into awakened dagger."
     },
     {
       "type": "crafting",
-      "text": "$(item)骨短剑$()合成表",
+      "text": "$(item)Bone dagger$() recipe",
       "recipe": "divinefavor:bone_dagger"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:bone_dagger_awakened",
-      "text": "觉醒的骨短剑拥有独特的能力。如果一个生物受到攻击，他的血液不会从身体流出，灵魂却会被驱逐出身体。从躯体中驱逐出来的灵魂将立即结晶为灵魂结晶。这一过程所流失的灵魂数量很小，因此对受到攻击的生物不会造成任何实际伤害。"
+      "text": "Awakened bone dagger possess unique ability. When someone attacked with it instead of bleeding with blood they will bleed soul. Soul expelled from body will instantly crystallize into soul crystal. Amount of lost soul is extremely small and thus this process will not cause any permanent damage to the attacked creature. "
     },
     {
       "type": "text",
-      "text": "灵魂结晶碎片仍然连接到最初的灵魂上，并且可以用来影响连接的生物。灵魂碎片也有一些超自然的属性，经常被用作魔法配方的一部分。灵魂碎片因来源生物而异。目前已知的灵魂碎片有9种。"
+      "text": "Crystallized soul fragment remains connected to original soul and can be used to affect connected creature. Also soul shards have some unnatural properties and often used as part of occult recipes. Soul shards vary depending on the source creature. Currently there are 9 known soul shards."
     },
     {
       "type": "text",
-      "text": "灵魂碎片类型：$(li)末影碎片$(li)理智碎片$(li)下界碎片$(li)和平碎片$(li)不死碎片$(li)水之碎片$(li)野性碎片$(li)凋零碎片$(li)心智碎片"
+      "text": "Soul shard types: $(li)Shard of end $(li)Shard of mind $(li)Shard of nether $(li)Shard of peace $(li)Shard of undeath $(li)Shard of water $(li)Shard of wild $(li)Shard of wither $(li)Shard of soul"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_end",
-      "text": "这种灵魂结晶碎片来自末地的灵魂。它可以从末影人、末影螨、潜影贝身上获得。如果你追求刺激也可以从末影龙身上获得。"
+      "text": "Soul shard crystallized from soul of otherworldly creatures of end dimension. Can be extracted from endermans, endermites, and shulkers. Also can be extracted from ender dragon inf you seek challenge."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_mind",
-      "text": "这种灵魂结晶碎片来自智慧生物的灵魂。它可以从所有村民身上获得。"
+      "text": "Soul shard crystallized from soul of intelligent being. Can be extracted from any type of villager."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_nether",
-      "text": "这种灵魂结晶碎片来自地狱生物的灵魂。它可以从僵尸猪人、岩浆怪、烈焰人等任何与凋零无关的生物身上获得。"
+      "text": "Soul shard crystallized from soul of hellish creature. Can be extracted from pigmans, magma cubes, blazes and any type hellish creature not related to wither."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_peace",
-      "text": "这种灵魂结晶碎片来自和平生物的灵魂。它可以从猪、牛、鸡等任何种类的自然生物身上获得。"
+      "text": "Soul shard crystallized from soul of peaceful creature. Can be extracted from pigs, cows, chickens and any other type of neutral creature."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_undeath",
-      "text": "这种灵魂结晶碎片来自不死生物的灵魂。它可以从任何种类的僵尸和骷髅身上获得。"
+      "text": "Soul shard crystallized from soul of undead creature. Can be extracted from any type of zombies or skeleton."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_water",
-      "text": "这种灵魂碎片来自水生生物的灵魂。它可以从鱿鱼和守卫者身上获得。"
+      "text": "Soul shard crystallized from soul of aquatic creature. Can be extracted from squids or guardians."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_wild",
-      "text": "这种灵魂碎片来自野生敌对生物的灵魂。它可以从苦力怕、蜘蛛和史莱姆身上获得。"
+      "text": "Soul shard crystallized from soul of wild hostile creature. Can be extracted from creepers, spiders and slimes."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_will",
-      "text": "这种特殊的灵魂碎片来自玩家的灵魂。它可以从任何玩家身上获得。"
+      "text": "Special soul shard crystallized from soul of player. Can be extracted from any player."
     }
   ]
 }
